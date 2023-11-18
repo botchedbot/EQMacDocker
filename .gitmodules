@@ -3,7 +3,7 @@
 	url = https://github.com/BotchedBot/EQMacEMU
 [submodule "Quests"]
 	path = Quests
-	url = https://github.com/Quests/quests
+	url = https://github.com/BotchedBot/quests
 [submodule "Maps"]
 	path = Maps
 	url = https://github.com/BotchedBot/Maps
