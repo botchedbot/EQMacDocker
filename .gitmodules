@@ -1,9 +1,9 @@
 [submodule "Server"]
 	path = Server
-	url = https://github.com/EQMacEmu/Server
+	url = https://github.com/BotchedBot/EQMacEMU
 [submodule "Quests"]
 	path = Quests
-	url = https://github.com/EQMacEmu/quests
+	url = https://github.com/Quests/quests
 [submodule "Maps"]
 	path = Maps
-	url = https://github.com/EQMacEmu/Maps
+	url = https://github.com/BotchedBot/Maps
